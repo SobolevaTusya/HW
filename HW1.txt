@@ -7,3 +7,10 @@ ls -ls - recheck the list of contained files and folders
 CTRL+C - save and exit file
 mv address/file address/file - move the file from one folder to another 
 cp ../Folder1/file ../Folder2/file - copy the file from one folder to another 
+find . -name "HW1" - find the file by name 
+tail -f HW1.txt | grep -C 2 cat - monitoring changes of the file which contain "cat" and 2 rows before and after it
+head -n2 HW1.txt - show only the first 2 rows in the file
+tail -n4 HW1.txt - shows the last 4 rows in the file 
+less HW1.txt - see full contains of a long file 
+date - shows the current date and time of your computer 
+curl -i -X OPTION http://address - send url request

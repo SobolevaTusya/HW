@@ -3,7 +3,7 @@ mkdir - created folder(s)
 cd - enter or exit the folder 
 touch - create file(s)
 ls -ls - recheck the list of contained files and folders
-[A[C[C[C[C[C[a[B[D[D[D[D[D[Dcat >> file.txt - edit file 
+cat >> file.txt - edit file 
 CTRL+C - save and exit file
 mv address/file address/file - move the file from one folder to another 
 cp ../Folder1/file ../Folder2/file - copy the file from one folder to another 

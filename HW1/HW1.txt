@@ -14,3 +14,6 @@ tail -n4 HW1.txt - shows the last 4 rows in the file
 less HW1.txt - see full contains of a long file 
 date - shows the current date and time of your computer 
 curl -i -X OPTION http://address - send url request
+cat [directory and filename] - look the containing of the file 
+> [file directory and name] - clear the containing of the file 
+
